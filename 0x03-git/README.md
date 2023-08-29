@@ -1,1 +1,1 @@
-Created a 0x03-git dir 
+Created new dir (0x03-git)
